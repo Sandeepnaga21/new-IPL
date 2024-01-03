@@ -1,0 +1,12 @@
+.ipl-team-card {
+  background-color: transparent;
+  font-family: 'Bree Serif';
+}
+.img {
+  height: 20vh;
+  width: 25vw;
+}
+.name {
+  color: #ffffff;
+  font-size: 25px;
+}
